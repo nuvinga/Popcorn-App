@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CourseworkTwo</string>
+    <string name="app_heading">Popcorn Review</string>
+    <string name="register_text">Register Movie</string>
+    <string name="display_text">Display Movies</string>
+    <string name="favourites_text">Favourites</string>
+    <string name="edit_text">Edit Movies</string>
+    <string name="search_text">Search</string>
+    <string name="ratings_text">Ratings</string>
+</resources>
